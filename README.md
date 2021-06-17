@@ -1,7 +1,5 @@
-# LanguageClassification
+# Language Classification using Python
 Language Classificatiob between English and Dutch
-
-**Author: Amrutha Varshini Mandalreddy**
 
 ## HOW TO TRAIN THE SYSTEM:
 We could train the system using Decision trees or Adaboost. The serialized object of our
@@ -30,3 +28,6 @@ errorRate.py file can be used to calculate the error rates for different maxDept
 python3 errorRate.py​ ​train.dat dt 8 test1.txt expectedOP1.txt python3 errorRate.py​ ​train.dat ada 0 test1.txt expectedOP1.txt <br />
 To execute without any maxDepth put the max-tree-depth to 0 Similarly for test2.txt and expectedOP2.txt <br />
 python3 errorRate.py​ ​train.dat dt 0 test2.txt expectedOP2.txt python3 errorRate.py​ ​train.dat ada 0 test2.txt expectedOP2.txt <br />
+
+## Authors: 
+Amrutha Varshini Mandalreddy 

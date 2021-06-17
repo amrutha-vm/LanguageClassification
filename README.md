@@ -1,6 +1,8 @@
 # LanguageClassification
 Language Classificatiob between English and Dutch
 
+##Author: Amrutha Varshini Mandalreddy
+
 ## HOW TO TRAIN THE SYSTEM:
 We could train the system using Decision trees or Adaboost. The serialized object of our
 training is stored in trained.pickle file.
